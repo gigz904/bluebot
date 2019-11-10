@@ -1,0 +1,14 @@
+{
+  "name": "bluebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bluebot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "quick.db": "github:Androz2091/quick.db"
+  }
+}

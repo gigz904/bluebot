@@ -1,0 +1,21 @@
+{
+    "token":"NTMxOTI0Nzc2NDIwMjQ1NTI0.XLrfog.w4cWD9_iIQQU7mFF_n4Y_ZkBLuM",
+    "embed":{
+        "footer":"BlueBot",
+        "color":"FF0000"
+    },
+    "admin_users":["394479833201115147", "369886174766039050"],
+    "game":"protéger le serveur !",
+    "prefix":"+",
+    "error_messages":{
+        "perm":"vous n'avez pas les permissions d'effectuer cette commande !"
+    },
+    "owner":"394479833201115147",
+    "support":"492451830505275402",
+    "channel":"552535008544555009",
+    "logs_channel":"553569183296782346",
+    "mps":"553569209322438666",
+    "blacklist":[
+        "discord.gg"
+    ]
+}
